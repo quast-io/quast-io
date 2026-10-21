@@ -26,19 +26,6 @@ Every product goes through the same seven stations. Each one has a definition of
 
 <br>
 
-## Stack
-
-```
-web       SvelteKit · TypeScript · CSS that doesn't hate your phone
-platform  Cloudflare (Pages, Workers, D1, R2, Durable Objects) · Docker
-code      Python · Go · Bash
-ops       GitHub Actions · n8n · Jira
-network   BGP · OSPF · MPLS · AWS Transit Gateway / Direct Connect · SD-WAN
-agents    Claude, run as a crew with names, roles, and adult supervision
-```
-
-<br>
-
 ## Got an idea?
 
 **[quast.io](https://quast.io)** · **info@quast.io** · napkin sketches welcome
